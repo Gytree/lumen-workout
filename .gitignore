@@ -1,0 +1,4 @@
+rest/vendor/
+.vscode/
+/.idea
+.env
